@@ -26,7 +26,7 @@ Note - data capture may not have been 100% complete, and there may be gaps in th
   }
 ```
 
-The *asOf* field holds a time stamp for each set of captured coordinates.
+The ```asOf``` field holds a time stamp for each set of captured coordinates.
 
 * The ```scrape``` directory contains the raw file assembled during the data capture time period.
 * The ```scripts``` directory contains data conversion scripts and other utilities.

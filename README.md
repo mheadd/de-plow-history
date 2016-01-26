@@ -1,6 +1,7 @@
-# Delaware Snow Plow Data
-
 ![Tweet from Open Data Delaware](/odd-tweet.png?raw=true "Tweet from Open Data Delaware")
+
+-----
+# Delaware Snow Plow Data
 
 A record of snow plow locations in the State of Delaware during [Winter Storm Jonas](http://www.weather.com/storms/winter/news/winter-storm-jonas-forecast-blizzard-warning-january-22). Data captured for all plows at a rate of once per minute during the following time period.
 

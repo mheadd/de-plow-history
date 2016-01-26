@@ -10,7 +10,7 @@ A record of snow plow locations in the State of Delaware during [Winter Storm Jo
 
 Note - data capture may not have been 100% complete, and there may be gaps in the timelines for some plows. Each set of coorindates is accompanied by a timestamp to allow for temporal analysis (see below).
 
-## Data
+## Description of Data
 
 * The ```data``` directory contains a file for each unique plow id. Each file contains a JSON array of objects with the coordiantes, heading and diretion of the plow at a specific point in time.  
 
